@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Aspiring AI/ML Engineer & Data Science Enthusiast</h2>
+<h2 align="left">AI/ML Developer | ML & Data Science Enthusiast</h2>
 
 ###
 
